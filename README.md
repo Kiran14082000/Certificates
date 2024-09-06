@@ -1,4 +1,4 @@
-📜 Certificates Collection
+### 📜 Certificates Collection
 This repository contains a collection of my professional certificates, demonstrating my skills in various domains such as Python, Data Science, Project Management, Leadership, and more.
 
 🏆 List of Certificates
